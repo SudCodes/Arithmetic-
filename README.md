@@ -10,3 +10,4 @@ class calc{
 Task 2: Added addition function.
 Task 3: Added subtraction function.
 Task 4: Added multiplication function.
+Task 5: Added division function.
