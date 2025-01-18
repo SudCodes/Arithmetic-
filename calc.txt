@@ -1,0 +1,18 @@
+public class clac{
+  public static void main(Strings[] args){
+   int a = 10;
+   int b = 20;
+  }
+  public static int(int a, int b){
+    return a+b;
+  }
+  public static int sub(int a, int b){
+    return a-b;
+  }
+  public static int div(int a, int b){
+    return a/b;
+  }
+  public static int mul(int a, int b){
+    return a*b;
+  }
+}
