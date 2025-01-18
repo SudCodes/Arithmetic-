@@ -8,3 +8,4 @@ class calc{
 }
 
 Task 2: Added addition function.
+Task 3: Added subtraction function.
